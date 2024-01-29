@@ -6,10 +6,25 @@
 * Containerization: Docker, Kubernetes
 * DevOps: Continuous Integration/Continuous Deployment (CI/CD), Automation, Jenkins, Ansible, Tomcat, Maven, Sonarqube
 
-  
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🛠️ Projects
+* 1
+* 2
+* 3
+* 4
+
+📚 Education
+* Bachelor of Technology (B.Tech) in Computer science and engineering - JNTU Kakinada University, 2016
+* Masters in Information Systems - Charles Sturt University, 2016
+
+
+📖 Certifications
+* Microsoft Certified: Azure Administrator Associate
+* AWS Certified DevOps Engineer - Professional
+* 
+*  
+
+
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
