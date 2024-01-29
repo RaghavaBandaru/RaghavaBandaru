@@ -16,7 +16,7 @@
 
 # 📚 Education
 * Bachelor of Technology (B.Tech) in Computer science and engineering - JNTU Kakinada University, 2016
-* Masters in Information Systems - Charles Sturt University, 2016
+* Masters in Information Systems - Charles Sturt University, 2018
 
 # 🌱 Interests
 *  I'm enthusiastic about staying up-to-date with the latest developments in cloud computing, DevOps practices, and emerging technologies. Always eager to learn and explore new challenges.
