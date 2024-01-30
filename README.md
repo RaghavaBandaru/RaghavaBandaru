@@ -22,7 +22,7 @@
 *  I'm enthusiastic about staying up-to-date with the latest developments in cloud computing, DevOps practices, and emerging technologies. Always eager to learn and explore new challenges.
 
 # 📖 Certifications
-* Microsoft Certified: Azure Administrator Associate
+* Microsoft Azure Administrator Associate
 * AWS Certified DevOps Engineer - Professional
 * 
 
