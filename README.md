@@ -13,7 +13,11 @@
 * 2
 * 3
 * 4
-
+  
+# 📖 Certifications
+* Microsoft Azure Administrator Associate
+* AWS Certified DevOps Engineer - Professional
+* 
 # 📚 Education
 * Bachelor of Technology (B.Tech) in Computer Science and Engineering - JNTU Kakinada University, 2016
 * Masters in Information Systems - Charles Sturt University, 2018
@@ -21,10 +25,7 @@
 # 🌱 Interests
 *  I'm enthusiastic about staying up-to-date with the latest developments in cloud computing, DevOps practices, and emerging technologies. Always eager to learn and explore new challenges.
 
-# 📖 Certifications
-* Microsoft Azure Administrator Associate
-* AWS Certified DevOps Engineer - Professional
-* 
+
 
 
 
