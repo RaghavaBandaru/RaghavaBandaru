@@ -9,13 +9,13 @@
 * DevOps: Continuous Integration/Continuous Deployment (CI/CD), Automation, Jenkins, Ansible, Tomcat, Maven, Sonarqube
 
 # 🛠️ Projects
-* 1
+* AWS 3 Tire Architecture 
 * 2
 * 3
 * 4
 
 # 📚 Education
-* Bachelor of Technology (B.Tech) in Computer science and engineering - JNTU Kakinada University, 2016
+* Bachelor of Technology (B.Tech) in Computer Science and Engineering - JNTU Kakinada University, 2016
 * Masters in Information Systems - Charles Sturt University, 2018
 
 # 🌱 Interests
