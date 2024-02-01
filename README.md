@@ -10,7 +10,7 @@
 
 # 🛠️ Projects
 * AWS 3 Tire Architecture 
-* 2
+* Automation scripts have been implemented to complete 3 Tier Application Deployment
 * 3
 * 4
   
