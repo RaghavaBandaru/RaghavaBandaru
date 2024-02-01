@@ -15,8 +15,9 @@
 * 4
   
 # 📖 Certifications
-* Microsoft Azure Administrator Associate
 * AWS Certified DevOps Engineer - Professional
+* Microsoft Azure Administrator Associate
+*
 * 
 # 📚 Education
 * Bachelor of Technology (B.Tech) in Computer Science and Engineering - JNTU Kakinada University, 2016
