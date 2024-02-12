@@ -11,7 +11,7 @@
 # 🛠️ Projects
 * AWS 3 Tire Architecture 
 * Automation scripts have been implemented to complete 3 Tier Application Deployment
-* 3
+* Jenkins CI/CD pipelines to automate project builds, testing, and deployments, enhancing development efficiency and ensuring continuous integration.
 * 4
   
 # 📖 Certifications
