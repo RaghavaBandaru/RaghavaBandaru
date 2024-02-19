@@ -3,10 +3,10 @@
 👋 Hi, I’m @RaghavaBandaru IT professional passionate about cloud computing, DevOps, and Python. Currently, I'm gaining practical experience through an internship at Rise n Shine Technologies, where I'm working on a variety of exciting projects involving AWS services, Python development, and containerization technologies.
 
 # 🔧 Skills
-* Programming Languages: Python
+* Programming Languages: Python, shell scripting, Groove scripting 
 * AWS Services: Lambda, CodeBuild, CodeDeploy, CodePipeline, Elastic Beanstalk, ECS, EKS, Terraform, CloudFront, DynamoDB
 * Containerization: Docker, Kubernetes
-* DevOps: Continuous Integration/Continuous Deployment (CI/CD), Automation, Jenkins, Ansible, Tomcat, Maven, Sonarqube
+* DevOps: Continuous Integration/Continuous Deployment (CI/CD), Automation, Jenkins, Ansible, Tomcat, Maven
 
 # 🛠️ Projects
 * AWS 3 Tire Architecture 
