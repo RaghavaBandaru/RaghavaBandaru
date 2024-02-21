@@ -4,7 +4,7 @@
 
 # 🔧 Skills
 * Programming Languages: Python, shell scripting, Groove scripting 
-* AWS Services: Lambda, CodeBuild, CodeDeploy, CodePipeline, Elastic Beanstalk, ECS, EKS, Terraform, CloudFront, DynamoDB
+* AWS Services: Lambda, CodeBuild, CodeDeploy, CodePipeline, ECS, EKS, Terraform, CloudFront, DynamoDB
 * Containerization: Docker, Kubernetes
 * DevOps: Continuous Integration/Continuous Deployment (CI/CD), Automation, Jenkins, Ansible, Tomcat, Maven
 
