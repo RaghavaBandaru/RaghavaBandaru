@@ -7,17 +7,18 @@
 * AWS Services: Lambda, CodeBuild, CodeDeploy, CodePipeline, ECS, EKS, Terraform, CloudFront, DynamoDB
 * Containerization: Docker, Kubernetes
 * DevOps: Continuous Integration/Continuous Deployment (CI/CD), Automation, Jenkins, Ansible, Tomcat, Maven
+* Operating systems: WINDOWS, LINUX
+* WEB / APP SERVERS: APACHE, TOMCAT, NGINX
+* Cloud platform: AWS (AMAZON WEB SERVICES), AZURE
 
 # 🛠️ Projects
 * AWS 3 Tire Architecture 
 * Automation scripts have been implemented to complete 3 Tier Application Deployment
 * Jenkins CI/CD pipelines to automate project builds, testing, and deployments, enhancing development efficiency and ensuring continuous integration.
-* 4
+* 
   
 # 📖 Certifications
 * AWS Certified DevOps Engineer - Professional
-* 
-*
 * Microsoft Azure Administrator Associate
 # 📚 Education
 * Bachelor of Technology (B.Tech) in Computer Science and Engineering - JNTU Kakinada University, 2016
