@@ -16,6 +16,7 @@
 * Automation scripts have been implemented to complete 3 Tier Application Deployment
 * Jenkins CI/CD pipelines to automate project builds, testing, and deployments, enhancing development efficiency and ensuring continuous integration.
 * Implemented Terraform scripts to launch Jenkins, Ansible
+* Implemented Ansible playbooks and terraform scripts to automate project builds, testing, and deployments, enhancing development efficiency and ensuring continuous integration.
   
 # 📖 Certifications
 * AWS Certified DevOps Engineer - Professional
