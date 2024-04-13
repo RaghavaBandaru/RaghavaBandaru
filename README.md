@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm RaghavaBandaru</h1>
+<h1 align="left">Hi 👋, I'm RaghavaBandaru</h1>
 <h3 align="Left">IT professional passionate about cloud computing, DevOps, and Python. Currently, I'm gaining practical experience through an internship at Rise n Shine Technologies, where I'm working on a variety of exciting projects involving AWS services, Python development, and containerization technologies.</h3>
 
 
