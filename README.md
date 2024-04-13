@@ -1,6 +1,12 @@
-# Welcome to Raghava's GitHub Repository
+<h1 align="center">Hi 👋, I'm RaghavaBandaru</h1>
+<h3 align="center">T professional passionate about cloud computing, DevOps, and Python. Currently, I'm gaining practical experience through an internship at Rise n Shine Technologies, where I'm working on a variety of exciting projects involving AWS services, Python development, and containerization technologies.</h3>
 
-👋 Hi, I’m @RaghavaBandaru IT professional passionate about cloud computing, DevOps, and Python. Currently, I'm gaining practical experience through an internship at Rise n Shine Technologies, where I'm working on a variety of exciting projects involving AWS services, Python development, and containerization technologies.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavabandaru&label=Profile%20views&color=0e75b6&style=flat" alt="raghavabandaru" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 
 # 🔧 Skills
 * Programming Languages: Python, shell scripting, Groove scripting, YAML
@@ -32,16 +38,6 @@
 *  I'm enthusiastic about staying up-to-date with the latest developments in cloud computing, DevOps practices, and emerging technologies. Always eager to learn and explore new challenges.
 
 
-<h1 align="center">Hi 👋, I'm RaghavaBandaru</h1>
-<h3 align="center">T professional passionate about cloud computing, DevOps, and Python. Currently, I'm gaining practical experience through an internship at Rise n Shine Technologies, where I'm working on a variety of exciting projects involving AWS services, Python development, and containerization technologies.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavabandaru&label=Profile%20views&color=0e75b6&style=flat" alt="raghavabandaru" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
 
 
 
