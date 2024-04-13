@@ -55,11 +55,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavabandaru&label=Profile%20views&color=0e75b6&style=flat" alt="raghavabandaru" /> </p>
 
-
-<div> <a href="https://github.com/RaghavaBandaru" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div>
-
-
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaghavaBandaru&layout=compact&theme=" alt=RaghavaBandaru />
 
