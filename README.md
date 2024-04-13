@@ -1,4 +1,4 @@
-* <h1 align="center">Hi 👋, I'm RaghavaBandaru</h1>
+<h1 align="center">Hi 👋, I'm RaghavaBandaru</h1>
 <h3 align="Left">IT professional passionate about cloud computing, DevOps, and Python. Currently, I'm gaining practical experience through an internship at Rise n Shine Technologies, where I'm working on a variety of exciting projects involving AWS services, Python development, and containerization technologies.</h3>
 
 
@@ -13,7 +13,7 @@
 * WEB / APP SERVERS: APACHE, TOMCAT, NGINX
 * Cloud platform: AWS (AMAZON WEB SERVICES), AZURE
 
-* <p align="left">
+  <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
