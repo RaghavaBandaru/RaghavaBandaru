@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RaghavaBandaru</h1>
-<h3 align="center">T professional passionate about cloud computing, DevOps, and Python. Currently, I'm gaining practical experience through an internship at Rise n Shine Technologies, where I'm working on a variety of exciting projects involving AWS services, Python development, and containerization technologies.</h3>
+<h3 align="Left">IT professional passionate about cloud computing, DevOps, and Python. Currently, I'm gaining practical experience through an internship at Rise n Shine Technologies, where I'm working on a variety of exciting projects involving AWS services, Python development, and containerization technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavabandaru&label=Profile%20views&color=0e75b6&style=flat" alt="raghavabandaru" /> </p>
 
