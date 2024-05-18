@@ -45,6 +45,7 @@
 # 📖 Certifications
 * AWS Certified DevOps Engineer - Professional
 * Terraform Associate
+* Certified Kubernetes Administrator (CKA) 
 * Microsoft Azure Administrator Associate
 # 📚 Education
 * Bachelor of Technology (B.Tech) in Computer Science and Engineering - JNTU Kakinada University, 2016
